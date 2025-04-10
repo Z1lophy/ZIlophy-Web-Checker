@@ -1,0 +1,10 @@
+ZILOPHY Anti-Cheat Launcher
+Copyright (c) 2024 [Your Name or Team Name]
+
+All rights reserved.
+
+This software is proprietary and confidential. Unauthorized copying, distribution,
+modification, or reverse engineering of any part of this software is strictly prohibited.
+
+The ZILOPHY Anti-Cheat Launcher is intended for use only by authorized users and is
+not open source. By using this software, you agree to comply with the above terms.
