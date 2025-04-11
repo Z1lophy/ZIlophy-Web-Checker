@@ -9,7 +9,7 @@ This program allows you to see if the person you're file checking has visited
 call of duty cheat sites and if they attempted to delete history of it and if
 they have created accounts for those sites.
 
-#Requirements
+# Requirements
 
 You will need to install python to use this program. https://www.python.org/downloads/
 
@@ -20,7 +20,7 @@ Once the console is open type copy and paste the following: pip install -r requi
 After that copy and paste this into the console: python main_qt.py
 
 
-#How to Use
+# How to Use
 
 Step 1: Extract the file 
 
