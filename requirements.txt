@@ -1,0 +1,10 @@
+PyQt6
+datetime
+glob
+scanner
+sqlite3
+tempfile
+traceback
+urllib
+utils
+webbrowser
