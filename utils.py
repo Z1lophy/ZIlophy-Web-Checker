@@ -9,7 +9,17 @@ TARGET_STRINGS = [
     'unknowncheats.me',
     'kronixsolutions.org',
     'cheatarmy.com',
-    'ring-1.io'
+    'ring-1.io',
+    'securecheats.com',
+    'phantomoverlay.io',
+    'novacheats.io',
+    'rut.gg',
+    'lmarket.net',
+    'immortalboost.com',
+    'cheatseller.com',
+    'fecurity.cloud',
+    'ezmod.vip',
+    'engineowning.su'
 ]
 
 CHROMIUM_BROWSERS = {
