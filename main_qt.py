@@ -21,7 +21,7 @@ def resource_path(relative_path):
 # =========================
 # 🔄 AUTO-UPDATER SETTINGS
 # =========================
-CURRENT_VERSION = "1.1.0"
+CURRENT_VERSION = "1.1.1"
 UPDATE_URL = "https://github.com/Z1lophy/ZIlophy-Web-Checker"
 VERSION_FILE_URL = "https://raw.githubusercontent.com/Z1lophy/ZIlophy-Web-Checker/main/version.txt"
 
