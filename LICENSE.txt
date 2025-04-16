@@ -1,5 +1,5 @@
 ZILOPHY Anti-Cheat Launcher
-Copyright (c) 2024 [Your Name or Team Name]
+Copyright (c) 2024 Zilophy
 
 All rights reserved.
 
